@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 85a4112bbf320491fba417c3c27f0367
+timeCreated: 1464157542
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Antina
+    100002: Containers
+    100004: Cranes
+    100006: Docks
+    100008: EntranceBlock
+    100010: Jumps
+    100012: Road
+    100014: RoadBG
+    100016: StreetFence
+    100018: Towers
+    100020: WarhouseLarge
+    100022: WarhouseMedium
+    100024: WarhouseSmall
+    100026: //RootNode
+    400000: Antina
+    400002: Containers
+    400004: Cranes
+    400006: Docks
+    400008: EntranceBlock
+    400010: Jumps
+    400012: Road
+    400014: RoadBG
+    400016: StreetFence
+    400018: Towers
+    400020: WarhouseLarge
+    400022: WarhouseMedium
+    400024: WarhouseSmall
+    400026: //RootNode
+    2300000: Antina
+    2300002: Containers
+    2300004: Cranes
+    2300006: Docks
+    2300008: EntranceBlock
+    2300010: Jumps
+    2300012: Road
+    2300014: RoadBG
+    2300016: StreetFence
+    2300018: Towers
+    2300020: WarhouseLarge
+    2300022: WarhouseMedium
+    2300024: WarhouseSmall
+    3300000: Antina
+    3300002: Containers
+    3300004: Cranes
+    3300006: Docks
+    3300008: EntranceBlock
+    3300010: Jumps
+    3300012: Road
+    3300014: RoadBG
+    3300016: StreetFence
+    3300018: Towers
+    3300020: WarhouseLarge
+    3300022: WarhouseMedium
+    3300024: WarhouseSmall
+    4300000: Towers
+    4300002: WarhouseSmall
+    4300004: WarhouseMedium
+    4300006: Docks
+    4300008: Cranes
+    4300010: Jumps
+    4300012: WarhouseLarge
+    4300014: Antina
+    4300016: StreetFence
+    4300018: EntranceBlock
+    4300020: Containers
+    4300022: RoadBG
+    4300024: Road
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

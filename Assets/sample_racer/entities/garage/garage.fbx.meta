@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 410f79ea038b44596abde7838300a120
+timeCreated: 1464171959
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: boxes
+    100002: boxes.001
+    100004: boxes.002
+    100006: boxes.003
+    100008: //RootNode
+    100010: oil_shelf
+    100012: pinboard
+    100014: rolldoors_closed
+    100016: rolldoors_opened
+    100018: tanks_1
+    100020: tanks_2
+    100022: tanks_3
+    100024: tool_shelf_orgenizer
+    100026: toolbox_red_a
+    100028: toolbox_red_b
+    100030: toolshelf_red_a
+    100032: toolshelf_red_a1
+    100034: toolshelf_red_a3
+    100036: toolshelf_yellow_a1
+    100038: warehouse_walls
+    100040: wheel_shelf_a
+    100042: wheel_shelf_b
+    100044: wheel_shelf_c
+    100046: wheels_1
+    100048: wheels_2
+    100050: wheels_4
+    100052: whiteboard
+    100054: workbench_a
+    400000: boxes
+    400002: boxes.001
+    400004: boxes.002
+    400006: boxes.003
+    400008: //RootNode
+    400010: oil_shelf
+    400012: pinboard
+    400014: rolldoors_closed
+    400016: rolldoors_opened
+    400018: tanks_1
+    400020: tanks_2
+    400022: tanks_3
+    400024: tool_shelf_orgenizer
+    400026: toolbox_red_a
+    400028: toolbox_red_b
+    400030: toolshelf_red_a
+    400032: toolshelf_red_a1
+    400034: toolshelf_red_a3
+    400036: toolshelf_yellow_a1
+    400038: warehouse_walls
+    400040: wheel_shelf_a
+    400042: wheel_shelf_b
+    400044: wheel_shelf_c
+    400046: wheels_1
+    400048: wheels_2
+    400050: wheels_4
+    400052: whiteboard
+    400054: workbench_a
+    2300000: boxes
+    2300002: boxes.001
+    2300004: boxes.002
+    2300006: boxes.003
+    2300008: oil_shelf
+    2300010: pinboard
+    2300012: rolldoors_closed
+    2300014: rolldoors_opened
+    2300016: tanks_1
+    2300018: tanks_2
+    2300020: tanks_3
+    2300022: tool_shelf_orgenizer
+    2300024: toolbox_red_a
+    2300026: toolbox_red_b
+    2300028: toolshelf_red_a
+    2300030: toolshelf_red_a1
+    2300032: toolshelf_red_a3
+    2300034: toolshelf_yellow_a1
+    2300036: warehouse_walls
+    2300038: wheel_shelf_a
+    2300040: wheel_shelf_b
+    2300042: wheel_shelf_c
+    2300044: wheels_1
+    2300046: wheels_2
+    2300048: wheels_4
+    2300050: whiteboard
+    2300052: workbench_a
+    3300000: boxes
+    3300002: boxes.001
+    3300004: boxes.002
+    3300006: boxes.003
+    3300008: oil_shelf
+    3300010: pinboard
+    3300012: rolldoors_closed
+    3300014: rolldoors_opened
+    3300016: tanks_1
+    3300018: tanks_2
+    3300020: tanks_3
+    3300022: tool_shelf_orgenizer
+    3300024: toolbox_red_a
+    3300026: toolbox_red_b
+    3300028: toolshelf_red_a
+    3300030: toolshelf_red_a1
+    3300032: toolshelf_red_a3
+    3300034: toolshelf_yellow_a1
+    3300036: warehouse_walls
+    3300038: wheel_shelf_a
+    3300040: wheel_shelf_b
+    3300042: wheel_shelf_c
+    3300044: wheels_1
+    3300046: wheels_2
+    3300048: wheels_4
+    3300050: whiteboard
+    3300052: workbench_a
+    4300000: wheel_shelf_c
+    4300002: wheel_shelf_b
+    4300004: wheel_shelf_a
+    4300006: boxes.003
+    4300008: boxes.002
+    4300010: boxes.001
+    4300012: boxes
+    4300014: whiteboard
+    4300016: tool_shelf_orgenizer
+    4300018: pinboard
+    4300020: oil_shelf
+    4300022: wheels_4
+    4300024: rolldoors_opened
+    4300026: rolldoors_closed
+    4300028: wheels_2
+    4300030: wheels_1
+    4300032: tanks_3
+    4300034: tanks_1
+    4300036: tanks_2
+    4300038: workbench_a
+    4300040: toolshelf_red_a
+    4300042: toolshelf_red_a1
+    4300044: toolbox_red_b
+    4300046: toolbox_red_a
+    4300048: toolshelf_yellow_a1
+    4300050: toolshelf_red_a3
+    4300052: warehouse_walls
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

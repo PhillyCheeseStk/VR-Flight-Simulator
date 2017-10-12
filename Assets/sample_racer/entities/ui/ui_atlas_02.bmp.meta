@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 5e853318c8760f9429c2853db1429263
+timeCreated: 1464190716
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ui_entity_waterfront
+    21300002: ui_entity_desert
+    21300004: ui_entity_stadium
+    21300006: ui_entity_highway
+    21300008: ui_entity_drift_arena
+    21300010: ui_entity_airport
+    21300012: ui_entity_blank_big
+    21300014: ui_entity_drift
+    21300016: ui_entity_coins
+    21300018: ui_entity_soccer
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 1
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ui_entity_waterfront
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 803
+        width: 412
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110, y: 108.5}
+        - {x: -206, y: -80.5}
+        - {x: -206, y: -108.5}
+        - {x: 108, y: -108.5}
+        - {x: 111, y: -106.5}
+        - {x: 206, y: 84.5}
+        - {x: 206, y: 108.5}
+    - name: ui_entity_desert
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 803
+        width: 412
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110, y: 108.5}
+        - {x: -206, y: -80.5}
+        - {x: -206, y: -108.5}
+        - {x: 108, y: -108.5}
+        - {x: 111, y: -106.5}
+        - {x: 206, y: 84.5}
+        - {x: 206, y: 108.5}
+    - name: ui_entity_stadium
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 584
+        width: 412
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -108, y: 108.5}
+        - {x: -111, y: 106.5}
+        - {x: -206, y: -84.5}
+        - {x: -206, y: -108.5}
+        - {x: 109, y: -108.5}
+        - {x: 111, y: -107.5}
+        - {x: 206, y: 83.5}
+        - {x: 206, y: 108.5}
+    - name: ui_entity_highway
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 584
+        width: 412
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -108, y: 108.5}
+        - {x: -111, y: 106.5}
+        - {x: -206, y: -84.5}
+        - {x: -206, y: -108.5}
+        - {x: 109, y: -108.5}
+        - {x: 111, y: -107.5}
+        - {x: 206, y: 83.5}
+        - {x: 206, y: 108.5}
+    - name: ui_entity_drift_arena
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 364
+        width: 412
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -108, y: 108.5}
+        - {x: -111, y: 106.5}
+        - {x: -206, y: -84.5}
+        - {x: -206, y: -108.5}
+        - {x: 109, y: -108.5}
+        - {x: 111, y: -107.5}
+        - {x: 206, y: 83.5}
+        - {x: 206, y: 108.5}
+    - name: ui_entity_airport
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 364
+        width: 412
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -108, y: 108.5}
+        - {x: -111, y: 106.5}
+        - {x: -206, y: -84.5}
+        - {x: -206, y: -108.5}
+        - {x: 109, y: -108.5}
+        - {x: 111, y: -107.5}
+        - {x: 206, y: 83.5}
+        - {x: 206, y: 108.5}
+    - name: ui_entity_blank_big
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 152, y: 0, z: 151, w: 0}
+      outline:
+      - - {x: -28, y: 150}
+        - {x: -175, y: -144}
+        - {x: -175, y: -150}
+        - {x: 28, y: -150}
+        - {x: 175, y: 144}
+        - {x: 175, y: 150}
+    - name: ui_entity_drift
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 189
+        width: 99
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 51.5}
+        - {x: -49.5, y: 31.5}
+        - {x: -49.5, y: -31.5}
+        - {x: -45.5, y: -48.5}
+        - {x: -39.5, y: -51.5}
+        - {x: 44.5, y: -51.5}
+        - {x: 49.5, y: -35.5}
+        - {x: 49.5, y: 45.5}
+        - {x: 39.5, y: 51.5}
+    - name: ui_entity_coins
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 193
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 48}
+        - {x: -36, y: 45}
+        - {x: -36, y: -42}
+        - {x: -34, y: -48}
+        - {x: 36, y: -48}
+        - {x: 36, y: 42}
+        - {x: 22, y: 48}
+    - name: ui_entity_soccer
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 44
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 58}
+        - {x: -58, y: 57}
+        - {x: -58, y: -55}
+        - {x: -48, y: -58}
+        - {x: 58, y: -58}
+        - {x: 58, y: 53}
+        - {x: 41, y: 58}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

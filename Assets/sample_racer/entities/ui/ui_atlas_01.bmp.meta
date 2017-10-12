@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: a76b481fa37db7c40a6b6b020d7a32a5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ui_entity_stroke_right
+    21300002: ui_entity_blank_tall
+    21300004: ui_entity_indent_blank
+    21300006: ui_entity_indent_shadow
+    21300008: ui_entity_singleplayer
+    21300010: ui_entity_multiplayer
+    21300012: ui_entity_joystick
+    21300014: ui_entity_slider_knot
+    21300016: ui_entity_slider
+    21300018: ui_entity_slider_handle
+    21300020: ui_entity_gears
+    21300022: ui_entity_tunes
+    21300024: ui_entity_accel
+    21300026: ui_entity_engine
+    21300028: ui_entity_stroke_left
+    21300030: ui_entity_controller
+    21300032: ui_entity_buttons
+    21300034: ui_entity_steering
+    21300036: ui_entity_blank
+    21300038: ui_entity_arrow
+    21300040: ui_entity_checkbox
+    21300042: ui_entity_checkmark
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ui_entity_stroke_right
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 180
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 52, y: 0, z: 92, w: 0}
+      outline: []
+      physicsShape: []
+      packingTag: 
+    - name: ui_entity_blank_tall
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 162
+        width: 210
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 101, y: 0, z: 101, w: 0}
+      outline: []
+      physicsShape: []
+      packingTag: 
+    - name: ui_entity_indent_blank
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 331
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 42, y: 0, z: 42, w: 0}
+      outline: []
+      physicsShape: []
+      packingTag: 
+    - name: ui_entity_indent_shadow
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 331
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      packingTag: 
+    - name: ui_entity_singleplayer
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 451
+        width: 98
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      packingTag: 
+    - name: ui_entity_multiplayer
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 373
+        width: 100
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      packingTag: 
+    - name: ui_entity_joystick
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 101
+        width: 58
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      packingTag: 
+    - name: ui_entity_slider_knot
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 303
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      packingTag: 
+    - name: ui_entity_slider
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 306
+        width: 4
+        height: 2
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 1, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      packingTag: 
+    - name: ui_entity_slider_handle
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 263
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      packingTag: 
+    - name: ui_entity_gears
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 164
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      packingTag: 
+    - name: ui_entity_tunes
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 72
+        width: 72
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      packingTag: 
+    - name: ui_entity_accel
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 95
+        width: 122
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      packingTag: 
+    - name: ui_entity_engine
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 97
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      packingTag: 
+    - name: ui_entity_stroke_left
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 412
+        width: 180
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 92, y: 0, z: 52, w: 0}
+      outline: []
+      physicsShape: []
+      packingTag: 
+    - name: ui_entity_controller
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      packingTag: 
+    - name: ui_entity_buttons
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2
+        width: 134
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      packingTag: 
+    - name: ui_entity_steering
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 2
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      packingTag: 
+    - name: ui_entity_blank
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 262
+        width: 160
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 51, y: 0, z: 51, w: 0}
+      outline: []
+      physicsShape: []
+      packingTag: 
+    - name: ui_entity_arrow
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 226
+        width: 92
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      packingTag: 
+    - name: ui_entity_checkbox
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 371
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      packingTag: 
+    - name: ui_entity_checkmark
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 376
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      packingTag: 
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

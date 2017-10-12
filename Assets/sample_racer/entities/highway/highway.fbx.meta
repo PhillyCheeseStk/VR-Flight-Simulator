@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 97eef11bd0860470787399ad825fae58
+timeCreated: 1463756381
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Collider
+    100002: //RootNode
+    100004: road_1
+    100006: road_10
+    100008: road_11
+    100010: road_2
+    100012: road_3
+    100014: road_4
+    100016: road_5
+    100018: road_6
+    100020: road_7
+    100022: road_8
+    100024: road_9
+    400000: Collider
+    400002: //RootNode
+    400004: road_1
+    400006: road_10
+    400008: road_11
+    400010: road_2
+    400012: road_3
+    400014: road_4
+    400016: road_5
+    400018: road_6
+    400020: road_7
+    400022: road_8
+    400024: road_9
+    2300000: Collider
+    2300002: road_1
+    2300004: road_10
+    2300006: road_11
+    2300008: road_2
+    2300010: road_3
+    2300012: road_4
+    2300014: road_5
+    2300016: road_6
+    2300018: road_7
+    2300020: road_8
+    2300022: road_9
+    3300000: Collider
+    3300002: road_1
+    3300004: road_10
+    3300006: road_11
+    3300008: road_2
+    3300010: road_3
+    3300012: road_4
+    3300014: road_5
+    3300016: road_6
+    3300018: road_7
+    3300020: road_8
+    3300022: road_9
+    4300000: road_11
+    4300002: road_10
+    4300004: road_9
+    4300006: road_8
+    4300008: road_7
+    4300010: road_6
+    4300012: road_5
+    4300014: road_4
+    4300016: road_3
+    4300018: road_2
+    4300020: road_1
+    4300022: Collider
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 2391324e3d9528640ac31206b67a9638
+timeCreated: 1483015797
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 3DGeom~309
+    100002: 3DGeom~310
+    100004: Body_1
+    100006: Body_10
+    100008: Body_11
+    100010: Body_12
+    100012: Body_13
+    100014: Body_14
+    100016: Body_15
+    100018: Body_16
+    100020: Body_17
+    100022: Body_2
+    100024: Body_3
+    100026: Body_4
+    100028: Body_5
+    100030: Body_6
+    100032: Body_7
+    100034: Body_8
+    100036: Body_9
+    100038: Default Camera 1
+    100040: Ground
+    100042: shema
+    100044: //RootNode
+    400000: 3DGeom~309
+    400002: 3DGeom~310
+    400004: Body_1
+    400006: Body_10
+    400008: Body_11
+    400010: Body_12
+    400012: Body_13
+    400014: Body_14
+    400016: Body_15
+    400018: Body_16
+    400020: Body_17
+    400022: Body_2
+    400024: Body_3
+    400026: Body_4
+    400028: Body_5
+    400030: Body_6
+    400032: Body_7
+    400034: Body_8
+    400036: Body_9
+    400038: Default Camera 1
+    400040: Ground
+    400042: shema
+    400044: //RootNode
+    2300000: 3DGeom~309
+    2300002: 3DGeom~310
+    2300004: Body_1
+    2300006: Body_10
+    2300008: Body_11
+    2300010: Body_12
+    2300012: Body_13
+    2300014: Body_14
+    2300016: Body_15
+    2300018: Body_16
+    2300020: Body_2
+    2300022: Body_3
+    2300024: Body_4
+    2300026: Body_5
+    2300028: Body_6
+    2300030: Body_7
+    2300032: Body_8
+    2300034: Body_9
+    3300000: 3DGeom~309
+    3300002: 3DGeom~310
+    3300004: Body_1
+    3300006: Body_10
+    3300008: Body_11
+    3300010: Body_12
+    3300012: Body_13
+    3300014: Body_14
+    3300016: Body_15
+    3300018: Body_16
+    3300020: Body_2
+    3300022: Body_3
+    3300024: Body_4
+    3300026: Body_5
+    3300028: Body_6
+    3300030: Body_7
+    3300032: Body_8
+    3300034: Body_9
+    4300000: 3DGeom~309
+    4300002: 3DGeom~310
+    4300004: Body_1
+    4300006: Body_2
+    4300008: Body_3
+    4300010: Body_4
+    4300012: Body_5
+    4300014: Body_6
+    4300016: Body_7
+    4300018: Body_8
+    4300020: Body_9
+    4300022: Body_10
+    4300024: Body_11
+    4300026: Body_12
+    4300028: Body_13
+    4300030: Body_14
+    4300032: Body_15
+    4300034: Body_16
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
