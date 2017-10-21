@@ -36,5 +36,5 @@ An attempt at creating a virtual reality flight simulator solely using the Oculu
 2. Once you have configured and started X-Plane, press the **Play** button
 
 ## Built With
-### NewtonVR
+1. NewtonVR
 
