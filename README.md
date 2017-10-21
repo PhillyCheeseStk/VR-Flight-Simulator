@@ -1,5 +1,7 @@
 # VR Flight Simulator
 
+An attempt at creating a virtual reality flight simulator solely using the Oculus Rift Touch controllers (and rudder pedals if available). The aircraft is a Piper PA-28 Archer II (presented as a low poly model in Unity). 
+
 ## Getting Started
 
 ### Configuring Unity
@@ -25,7 +27,7 @@
 ### Running X-Plane
 
 1. Ensure X-Plane is configured properly
-2. Before starting Unity, start X-Plane using the Cessna 172 Aircraft (ideally, you would use a Piper PA-28 II but X-Plane doesn't provide it as a default aircraft so the Cessna 172 has the closest handling specifications)
+2. Before starting Unity, start X-Plane using the **Cessna 172** Aircraft (ideally, you would use a Piper PA-28 II but X-Plane doesn't provide it as a default aircraft so the Cessna 172 has the closest handling specifications)
 3. Press the **b** key to disengage the brake
 
 ### Running Unity
