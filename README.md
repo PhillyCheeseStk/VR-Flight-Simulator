@@ -24,7 +24,18 @@ An attempt at creating a virtual reality flight simulator solely using the Oculu
    - Select the *leftmost* check box (labeled as **Internet via UDP**) for the following data sets:
      - speeds (#3)
      - pitch, roll, headings (#17)
-
+   - Set the **UDP rate** to **49.0**/sec
+   
+3. Configure Net Connections Screen
+   - Select the **Data** tab
+   - Under **IP for Data Output**: 
+     - enter the localhost IP (**127.0.0.1**)
+     - enter the port number as **55555**
+     - select the **IP of data receiver for (Data Input & Output screen: Data-Set and Dataref-Out tabs)** checkbox
+   - Under **UDP Ports**
+     - set the **port that we receive on** field to **49,000** (which is also the default value)
+     - set the **port that we send from** field to **49,001** (which is also the default value)
+     - ensure that the **port that we send to iPad from** is not either of the values listed above
 ## Deployment
 
 ### Running X-Plane
