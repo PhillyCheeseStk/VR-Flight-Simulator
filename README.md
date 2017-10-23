@@ -18,6 +18,7 @@ An attempt at creating a virtual reality flight simulator solely using the Oculu
      - *select* **Set to minimum**
    - Under the **STUFF TO DRAW** section:
      - *deselect* **runways follow terrain contours** (this is to ensure that the runway terrain mapping matches that of the Unity program) 
+   ![alt text](renderingoptions.PNG "Rendering Options")
 
 
 2. Configure Data Output Screen
@@ -28,6 +29,8 @@ An attempt at creating a virtual reality flight simulator solely using the Oculu
      - speeds (#3)
      - pitch, roll, headings (#17)
      - Set the **UDP rate** to **49.0**/sec
+   ![alt text](datainputoutput.PNG "Data Input & Output")
+   
 3. Configure Net Connections Screen
    - Select the **Data** tab
    - Under **IP for Data Output**: 
@@ -38,6 +41,7 @@ An attempt at creating a virtual reality flight simulator solely using the Oculu
      - set the **port that we receive on** field to **49,000** (which is also the default value)
      - set the **port that we send from** field to **49,001** (which is also the default value)
      - ensure that the **port that we send to iPad from** is not either of the values listed above
+   ![alt text](netconnectionsscreen.PNG "Net Connections")
 ## Deployment
 
 ### Running X-Plane
