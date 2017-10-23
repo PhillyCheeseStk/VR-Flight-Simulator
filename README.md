@@ -14,18 +14,20 @@ An attempt at creating a virtual reality flight simulator solely using the Oculu
 1. Configure Graphics Settings
    - Select **Settings** from the menu bar
    - Select **Rendering Options**
-   - Under the **Presets** section, *select* **Set to minimum**
-   - Under the **STUFF TO DRAW** section, *deselect* **runways follow terrain contours** (this is to ensure that the runway terrain mapping matches that of the Unity program) 
+   - Under the **Presets** section:
+     - *select* **Set to minimum**
+   - Under the **STUFF TO DRAW** section:
+     - *deselect* **runways follow terrain contours** (this is to ensure that the runway terrain mapping matches that of the Unity program) 
 
 
 2. Configure Data Output Screen
    - Select **Settings** from the menu bar
    - Select **Data Input & Output**
-   - Select the *leftmost* check box (labeled as **Internet via UDP**) for the following data sets:
+   - Under **Data Set**:
+     - Select the *leftmost* check box (labeled as **Internet via UDP**) for the following data sets:
      - speeds (#3)
      - pitch, roll, headings (#17)
-   - Set the **UDP rate** to **49.0**/sec
-   
+     - Set the **UDP rate** to **49.0**/sec
 3. Configure Net Connections Screen
    - Select the **Data** tab
    - Under **IP for Data Output**: 
