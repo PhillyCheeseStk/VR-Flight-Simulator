@@ -2,7 +2,7 @@
 
 An attempt at creating a virtual reality flight simulator solely using the Oculus Rift Touch controllers (and rudder pedals if available). The aircraft is a Piper PA-28 Archer II (presented as a low poly model in Unity). 
 
-![alt text](Youtube.png "Video Demo")
+![alt text](Youtube.png "Video Demo") (https://www.youtube.com/watch?v=wmSs0tTdKLE&feature=youtu.be)
 
 ## Getting Started
 
